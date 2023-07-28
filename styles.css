@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    padding: 40px 0;
+}
+
+#visualization {
+    /* Add styles for your data visualization container here */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+Add your data analytics visualization code inside the visualization div in the HTML file. You can use popular Python data visualization libraries like Matplotlib, Seaborn, Plotly, or Bokeh to generate the visualizations. Export the visualizations as static images (e.g., PNG) or interactive HTML (e.g., using Plotly or Bokeh's export functions).
+
+Save the HTML file as index.html and the CSS file as styles.css in the same directory.
+
+To view the website locally, simply open the index.html file in your web browser.
+
+If you want to host this one-page website online, create a GitHub repository and push the index.html and styles.css files to it. Then, enable GitHub Pages in the repository settings to publish the website.
+
+Remember to customize the website according to your specific data analytics needs. You can add more sections, styling, and interactive elements based on the data visualizations and insights you want to showcase.
+
+
+
+
+
